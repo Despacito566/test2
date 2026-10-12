@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Podaj swoje imię:");
         String name = scanner.nextLine();
         System.out.println("Dzień dobry " + name);
+
+        System.out.println("Dzisiaj jest poniedzialek");
     }
 }
