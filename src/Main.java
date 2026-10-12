@@ -8,6 +8,6 @@ public class Main {
         String name = scanner.nextLine();
         System.out.println("Dzień dobry " + name);
 
-        System.out.println("Dzisiaj jest poniedzialek");
+        System.out.println("Dzisiaj jest poniedzialek 12.10.2025");
     }
 }
